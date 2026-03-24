@@ -1,0 +1,7 @@
+{
+  "prompt": "A hyper-realistic, cinematic photograph of a dusty, colorful old-world tailor shop filled with thousands of unique fabrics and suits. In the center, resting on a wooden measuring pedestal, is a completely smooth, featureless, perfect geometric cube made of solid gray stone. An anxious, attentive tailor stands holding a tape measure, staring in complete confusion at the stone cube, entirely unable to measure it for a suit. Natural window lighting, highly detailed, shot on 35mm lens. No text, no writing, no signs, no labels anywhere in the image.",
+  "model": "GPT Image 1.5 (via ChatGPT)",
+  "concept": "cold start problem",
+  "metaphor": "A master tailor (the recommendation model) is utterly baffled by a featureless stone cube (a new user), illustrating the inability to predict without historical data or extractable features."
+}
+
